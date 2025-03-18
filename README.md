@@ -33,10 +33,3 @@ To improve model performance, the following preprocessing steps were applied:
 **7. Conclusion**
 This project successfully classifies movie reviews with high accuracy using Naïve Bayes. Future improvements could include experimenting with deep learning models like LSTMs or Transformers to further enhance performance.
 
-**8. Future Enhancements**
-- Implement **real-time prediction** using a web interface.
-- Explore **deep learning approaches** (e.g., LSTM, BERT).
-- Include **more preprocessing techniques** like stemming or lemmatization.
-
-**Model and vectorizer saved successfully!**
-
